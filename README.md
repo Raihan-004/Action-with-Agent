@@ -9,7 +9,6 @@ This project explores the fascinating domain of activity recognition and agent d
 
 - **Single-Image Activity Recognition**: Detects and identifies activities from a single input image.
 - **Agent Detection**: Recognizes and labels individuals involved in the detected activities.
-- **Bengali Language Support**: Labels and activities are recognized and displayed in Bengali.
 
 ## Example
 
